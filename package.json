@@ -1,0 +1,30 @@
+{
+  "name": "jsonapi-to-ember-mirage",
+  "version": "1.0.0",
+  "description": "Convert JSONAPI responses to ember-cli-mirage fixture format",
+  "main": "index.js",
+  "bin": {
+    "jsonapi-to-ember-mirage": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/topaxi/jsonapi-to-ember-mirage.git"
+  },
+  "keywords": [
+    "JSONAPI",
+    "ember",
+    "ember-cli-mirage",
+    "mirage",
+    "pretender",
+    "test"
+  ],
+  "author": "Damian Senn <damian.senn@topaxi.codes>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/topaxi/jsonapi-to-ember-mirage/issues"
+  },
+  "homepage": "https://github.com/topaxi/jsonapi-to-ember-mirage#readme"
+}
